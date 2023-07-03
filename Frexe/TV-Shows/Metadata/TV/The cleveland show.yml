@@ -1,0 +1,15 @@
+metadata:               #Posters found here https://theposterdb.com/poster/379598
+
+  "The Cleveland Show (2009)":
+    year: 2009
+    title: "The Cleveland Show"
+    url_poster: https://theposterdb.com/api/assets/379598
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/379599
+      2:
+        url_poster: https://theposterdb.com/api/assets/379600
+      3:
+        url_poster: https://theposterdb.com/api/assets/379601
+      4:
+        url_poster: https://theposterdb.com/api/assets/379602

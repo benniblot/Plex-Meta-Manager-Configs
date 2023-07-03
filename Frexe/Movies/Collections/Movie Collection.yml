@@ -17,7 +17,7 @@ templates:
 collections:
 ################################################# 300 ################################################
   "300":
-    template: {name: Set, collection: 829561, poster: https://theposterdb.com/api/assets/233228 }
+    template: {name: Set, collection: 125570, poster: https://theposterdb.com/api/assets/162103 }
 
 ############################################### 365 Days ##############################################
   "365 Days":
@@ -128,7 +128,7 @@ collections:
 
 ############################### The Christmas Chronicles Collection ###################################
   "The Christmas Chronicles Collection":
-    template: {name: Set, collection: 98580, poster: https://theposterdb.com/api/assets/163641 }
+    template: {name: Set, collection: 743824, poster: https://theposterdb.com/api/assets/168204 }
 
 ############################################### Conjuring #############################################
   "Conjuring Universe":
@@ -169,6 +169,10 @@ collections:
 ######################################### Dumb and Dumber #############################################
   "Dumb and Dumber":
     template: {name: Set, collection: 96665, poster: https://theposterdb.com/api/assets/165413 }
+
+###################################### Dungeons & Dragons #############################################
+  "Dungeons & Dragons":
+    template: {name: Set, collection: 106498, poster: https://theposterdb.com/api/assets/297425 }
 
 ############################################ Equalizer ################################################
   "Equalizer":

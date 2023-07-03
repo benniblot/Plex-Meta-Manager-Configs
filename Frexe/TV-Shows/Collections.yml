@@ -20,6 +20,10 @@ collections:
         template: { name: set, list: "8205726", poster: https://theposterdb.com/api/assets/239453, background: https://i.imgur.com/ckx6reE.jpg, }
         summary:  Marvel Television
 
+ NCIS:
+        template: { name: set, list: "8215091", poster: https://theposterdb.com/api/assets/360205, background: https://i.imgur.com/mIgqLPz.jpg, }
+        summary:  NCIS
+
  Stargate:
         template: { name: set, list: "8205729", poster: https://theposterdb.com/api/assets/228932, background: https://i.imgur.com/VrJ3Um8.jpg, }
         summary:  Stargate

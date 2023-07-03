@@ -1,9 +1,11 @@
-metadata:               #Posters found here: https://theposterdb.com/set/136084
+metadata:               #Posters found here https://theposterdb.com/poster/373011
 
-   "I'm Quitting Heroing (2022)":
+  "I'm Quitting Heroing (2022)":
     year: 2022
     title: "I'm Quitting Heroing"
-    url_poster: https://theposterdb.com/api/assets/226404
+    url_poster: https://theposterdb.com/api/assets/373011
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/373012
       1:
-        url_poster: https://theposterdb.com/api/assets/226405
+        url_poster: https://theposterdb.com/api/assets/373013

@@ -1,0 +1,11 @@
+metadata:               #Posters found here https://theposterdb.com/poster/335533
+
+  "The Wheel of Time (2021)":
+    year: 2021
+    title: "The Wheel of Time"
+    url_poster: https://theposterdb.com/api/assets/335533
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335534
+      1:
+        url_poster: https://theposterdb.com/api/assets/335535

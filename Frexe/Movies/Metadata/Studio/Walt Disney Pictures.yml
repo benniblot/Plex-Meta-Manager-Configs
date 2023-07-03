@@ -5,11 +5,6 @@ metadata:               #Posters found here https://theposterdb.com/set/98242
     year: 1993
     url_poster: https://theposterdb.com/api/assets/173300
 
-  "The Return of Jafar (1994)":
-    title: "The Return of Jafar"
-    year: 1994
-    url_poster: https://theposterdb.com/api/assets/191864
-
   "The Jungle Book (1994)":
     title: "The Jungle Book"
     year: 1994
@@ -25,40 +20,15 @@ metadata:               #Posters found here https://theposterdb.com/set/98242
     year: 1996
     url_poster: https://theposterdb.com/api/assets/172598
 
-  "Winnie the Pooh: Seasons of Giving (1999)":
-    title: "Winnie the Pooh: Seasons of Giving"
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/192350
-
   "102 Dalmatians (2000)":
     title: "102 Dalmatians"
     year: 2000
     url_poster: https://theposterdb.com/api/assets/172599
 
-  "Winnie the Pooh: A Very Merry Pooh Year (2002)":
-    title: "Winnie the Pooh: A Very Merry Pooh Year"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/190467
-
   "The Santa Clause 2 (2002)":
     title: "The Santa Clause 2"
     year: 2002
     url_poster: https://theposterdb.com/api/assets/189955
-
-  "Piglet's Big Movie (2003)":
-    title: "Piglet's Big Movie"
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/192352
-
-  "The Jungle Book 2 (2003)":
-    title: "The Jungle Book 2"
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/191933
-
-  "Pooh's Heffalump Movie (2005)":
-    title: "Pooh's Heffalump Movie"
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/192354
 
   "The Santa Clause 3: The Escape Clause (2006)":
     title: "The Santa Clause 3: The Escape Clause"

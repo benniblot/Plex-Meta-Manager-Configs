@@ -1,0 +1,11 @@
+metadata:               #Posters found here https://theposterdb.com/poster/351947
+
+  "Record of Ragnarok (2021)":
+    year: 2021
+    title: "Record of Ragnarok"
+    url_poster: https://theposterdb.com/api/assets/351947
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/351948
+      2:
+        url_poster: https://theposterdb.com/api/assets/351949

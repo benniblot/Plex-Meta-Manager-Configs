@@ -223,3 +223,11 @@ metadata:               #Posters found here https://theposterdb.com/set/143788
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/258765
+
+   "Secret Invasion (2023)":
+    year: 2023
+    title: "Secret Invasion"
+    url_poster: https://theposterdb.com/api/assets/380315
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/380316

@@ -1,0 +1,11 @@
+metadata:               #Posters found here https://theposterdb.com/poster/297303
+
+  "The White Lotus (2021)":
+    year: 2021
+    title: "The White Lotus"
+    url_poster: https://theposterdb.com/api/assets/297303
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/297304
+      2:
+        url_poster: https://theposterdb.com/api/assets/297305

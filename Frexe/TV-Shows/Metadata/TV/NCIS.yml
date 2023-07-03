@@ -1,0 +1,115 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/360231
+
+  "NCIS (2003)":
+    year: 2003
+    title: "NCIS"
+    url_poster: https://theposterdb.com/api/assets/360206
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/360207
+      1:
+        url_poster: https://theposterdb.com/api/assets/360208
+      2:
+        url_poster: https://theposterdb.com/api/assets/360209
+      3:
+        url_poster: https://theposterdb.com/api/assets/360210
+      4:
+        url_poster: https://theposterdb.com/api/assets/360211
+      5:
+        url_poster: https://theposterdb.com/api/assets/360212
+      6:
+        url_poster: https://theposterdb.com/api/assets/360213
+      7:
+        url_poster: https://theposterdb.com/api/assets/360214
+      8:
+        url_poster: https://theposterdb.com/api/assets/360215
+      9:
+        url_poster: https://theposterdb.com/api/assets/360216
+      10:
+        url_poster: https://theposterdb.com/api/assets/360217
+      11:
+        url_poster: https://theposterdb.com/api/assets/360218
+      12:
+        url_poster: https://theposterdb.com/api/assets/360219
+      13:
+        url_poster: https://theposterdb.com/api/assets/360220
+      14:
+        url_poster: https://theposterdb.com/api/assets/360221
+      15:
+        url_poster: https://theposterdb.com/api/assets/360222
+      16:
+        url_poster: https://theposterdb.com/api/assets/360223
+      17:
+        url_poster: https://theposterdb.com/api/assets/360224
+      18:
+        url_poster: https://theposterdb.com/api/assets/360225
+      19:
+        url_poster: https://theposterdb.com/api/assets/360226
+      20:
+        url_poster: https://theposterdb.com/api/assets/360227
+
+  "NCIS: Los Angeles (2009)":
+    year: 2009
+    title: "NCIS: Los Angeles"
+    url_poster: https://theposterdb.com/api/assets/360231
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/360232
+      1:
+        url_poster: https://theposterdb.com/api/assets/360233
+      2:
+        url_poster: https://theposterdb.com/api/assets/360234
+      3:
+        url_poster: https://theposterdb.com/api/assets/360235
+      4:
+        url_poster: https://theposterdb.com/api/assets/360236
+      5:
+        url_poster: https://theposterdb.com/api/assets/360237
+      6:
+        url_poster: https://theposterdb.com/api/assets/360238
+      7:
+        url_poster: https://theposterdb.com/api/assets/360239
+      8:
+        url_poster: https://theposterdb.com/api/assets/360240
+      9:
+        url_poster: https://theposterdb.com/api/assets/360241
+      10:
+        url_poster: https://theposterdb.com/api/assets/360242
+      11:
+        url_poster: https://theposterdb.com/api/assets/360243
+      12:
+        url_poster: https://theposterdb.com/api/assets/360244
+      13:
+        url_poster: https://theposterdb.com/api/assets/360245
+      14:
+        url_poster: https://theposterdb.com/api/assets/360246
+
+  "NCIS: New Orleans (2014)":
+    year: 2014
+    title: "NCIS: New Orleans"
+    url_poster: https://theposterdb.com/api/assets/360247
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/360248
+      2:
+        url_poster: https://theposterdb.com/api/assets/360249
+      3:
+        url_poster: https://theposterdb.com/api/assets/360250
+      4:
+        url_poster: https://theposterdb.com/api/assets/360251
+      5:
+        url_poster: https://theposterdb.com/api/assets/360252
+      6:
+        url_poster: https://theposterdb.com/api/assets/360253
+      7:
+        url_poster: https://theposterdb.com/api/assets/360254
+
+  "NCIS: Hawai'i (2021)":
+    year: 2021
+    title: "NCIS: Hawai'i"
+    url_poster: https://theposterdb.com/api/assets/360228
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/360229
+      2:
+        url_poster: https://theposterdb.com/api/assets/360230

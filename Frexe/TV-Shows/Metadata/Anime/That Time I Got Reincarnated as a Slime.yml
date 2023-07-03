@@ -1,13 +1,21 @@
-metadata:               #Posters found here: https://theposterdb.com/set/136082
+metadata:               #Posters found here: https://theposterdb.com/poster/347115
 
-   "That Time I Got Reincarnated as a Slime (2018)":
+  "That Time I Got Reincarnated as a Slime (2018)":
     year: 2018
     title: "That Time I Got Reincarnated as a Slime"
-    url_poster: https://theposterdb.com/api/assets/226399
+    url_poster: https://theposterdb.com/api/assets/347115
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/226400
+        url_poster: https://theposterdb.com/api/assets/347116
       1:
-        url_poster: https://theposterdb.com/api/assets/226401
+        url_poster: https://theposterdb.com/api/assets/347117
       2:
-        url_poster: https://theposterdb.com/api/assets/226402
+        url_poster: https://theposterdb.com/api/assets/347118
+
+  "The Slime Diaries: That Time I Got Reincarnated as a Slime (2021)":
+    year: 2021
+    title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+    url_poster: https://theposterdb.com/api/assets/372865
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/372866

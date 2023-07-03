@@ -1,0 +1,21 @@
+metadata:               #Posters found here https://theposterdb.com/poster/347107
+
+  "Steins;Gate (2011)":
+    year: 2011
+    title: "Steins;Gate"
+    url_poster: https://theposterdb.com/api/assets/347107
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/347108
+      1:
+        url_poster: https://theposterdb.com/api/assets/347109
+
+  "Steins;Gate 0 (2018)":
+    year: 2018
+    title: "Steins;Gate 0"
+    url_poster: https://theposterdb.com/api/assets/347110
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/347111
+      1:
+        url_poster: https://theposterdb.com/api/assets/347112

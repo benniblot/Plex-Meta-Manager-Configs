@@ -1,0 +1,11 @@
+metadata:               #Posters found here https://theposterdb.com/poster/339277
+
+  "Tiger King (2020)":
+    year: 2020
+    title: "Tiger King"
+    url_poster: https://theposterdb.com/api/assets/339277
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/339278
+      2:
+        url_poster: https://theposterdb.com/api/assets/339279

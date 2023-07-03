@@ -1,9 +1,11 @@
-metadata:               #Posters found here: https://theposterdb.com/set/99466
+metadata:               #Posters found here https://theposterdb.com/poster/315438
 
-   "Vinland Saga (2019)":
+  "Vinland Saga (2019)":
     year: 2019
     title: "Vinland Saga"
-    url_poster: https://theposterdb.com/api/assets/162868
+    url_poster: https://theposterdb.com/api/assets/315438
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/162869
+        url_poster: https://theposterdb.com/api/assets/315439
+      2:
+        url_poster: https://theposterdb.com/api/assets/315440

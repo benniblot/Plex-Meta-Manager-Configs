@@ -196,10 +196,10 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2022
     url_poster: https://theposterdb.com/api/assets/289681
 
-  "Shazam! Fury of the Gods (2022)":
+  "Shazam! Fury of the Gods (2023)":
     title: "Shazam! Fury of the Gods"
-    year: 2022
-    url_poster:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/341269
 
   "Aquaman and the Lost Kingdom (2023)":
     title: "Aquaman and the Lost Kingdom"
@@ -209,7 +209,7 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
   "The Flash (2023)":
     title: "The Flash"
     year: 2023
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/357710
 
 #Streaming films
   "Zack Snyder's Justice League (2021)":
