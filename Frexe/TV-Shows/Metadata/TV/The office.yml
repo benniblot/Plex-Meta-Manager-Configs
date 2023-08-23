@@ -1,0 +1,39 @@
+metadata:               #Posters found here https://theposterdb.com/poster/291002
+
+  "The Office (2001)":
+    year: 2001
+    title: "The Office"
+    url_poster: https://theposterdb.com/api/assets/365007
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/365008
+      1:
+        url_poster: https://theposterdb.com/api/assets/365009
+      2:
+        url_poster: https://theposterdb.com/api/assets/365010
+
+  "The Office (2005)":
+    year: 2005
+    title: "The Office"
+    url_poster: https://theposterdb.com/api/assets/291002
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/291003
+      1:
+        url_poster: https://theposterdb.com/api/assets/291004
+      2:
+        url_poster: https://theposterdb.com/api/assets/291005
+      3:
+        url_poster: https://theposterdb.com/api/assets/291006
+      4:
+        url_poster: https://theposterdb.com/api/assets/291007
+      5:
+        url_poster: https://theposterdb.com/api/assets/291008
+      6:
+        url_poster: https://theposterdb.com/api/assets/291009
+      7:
+        url_poster: https://theposterdb.com/api/assets/291010
+      8:
+        url_poster: https://theposterdb.com/api/assets/291011
+      9:
+        url_poster: https://theposterdb.com/api/assets/291012

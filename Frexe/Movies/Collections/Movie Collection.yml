@@ -523,6 +523,10 @@ collections:
   "Trainspotting":
     template: {name: Set, collection: 424202, poster: https://theposterdb.com/api/assets/164842 }
 
+############################################### Transformers #################################################
+  "Transformers":
+    template: {name: Set, collection: 8650, 939352, poster: https://theposterdb.com/api/assets/160997 }
+
 ############################################### Twilight #################################################
   "Twilight":
     template: {name: Set, collection: 33514, poster: https://theposterdb.com/api/assets/161853 }

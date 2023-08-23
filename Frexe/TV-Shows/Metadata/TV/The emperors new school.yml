@@ -1,0 +1,11 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/383718
+
+  "The Emperor's New School (2006)":
+    year: 2006
+    title: "The Emperor's New School"
+    url_poster: https://theposterdb.com/api/assets/383718
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/383719
+      2:
+        url_poster: https://theposterdb.com/api/assets/383720

@@ -10,6 +10,30 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
       1:
         url_poster: https://theposterdb.com/api/assets/225848
 
+   "Ewoks (1985)":
+    year: 1985
+    title: "Ewoks"
+    url_poster: https://theposterdb.com/api/assets/174490
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/319813
+      2:
+        url_poster: https://theposterdb.com/api/assets/319814
+
+   "Star Wars: Clone Wars (2003)":
+    year: 2003
+    title: "Star Wars: Clone Wars"
+    url_poster: https://theposterdb.com/api/assets/174479
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319820
+      1:
+        url_poster: https://theposterdb.com/api/assets/319821
+      2:
+        url_poster: https://theposterdb.com/api/assets/319822
+      3:
+        url_poster: https://theposterdb.com/api/assets/319823
+
    "Star Wars: The Clone Wars (2008)":
     year: 2008
     title: "Star Wars: The Clone Wars"
@@ -36,6 +60,58 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
       7:
         url_poster: https://theposterdb.com/api/assets/225842
 
+   "Star Wars Rebels (2014)":
+    year: 2014
+    title: "Star Wars Rebels"
+    url_poster: https://theposterdb.com/api/assets/174474
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319825
+      1:
+        url_poster: https://theposterdb.com/api/assets/319826
+      2:
+        url_poster: https://theposterdb.com/api/assets/319827
+      3:
+        url_poster: https://theposterdb.com/api/assets/319828
+      4:
+        url_poster: https://theposterdb.com/api/assets/319829
+
+   "Star Wars: Forces of Destiny (2017)":
+    year: 2017
+    title: "Star Wars: Forces of Destiny"
+    url_poster: https://theposterdb.com/api/assets/174488
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319815
+      1:
+        url_poster: https://theposterdb.com/api/assets/319816
+      2:
+        url_poster: https://theposterdb.com/api/assets/319817
+
+   "Star Wars Galaxy of Adventures (2018)":
+    year: 2008
+    title: "Star Wars Galaxy of Adventures"
+    url_poster: https://theposterdb.com/api/assets/174491
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319833
+      1:
+        url_poster: https://theposterdb.com/api/assets/319834
+      2:
+        url_poster: https://theposterdb.com/api/assets/319835
+
+   "Star Wars Resistance (2018)":
+    year: 2008
+    title: "Star Wars Resistance"
+    url_poster:
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319830
+      1:
+        url_poster: https://theposterdb.com/api/assets/319831
+      2:
+        url_poster: https://theposterdb.com/api/assets/319832
+
    "The Mandalorian (2019)":
     year: 2019
     title: "The Mandalorian"
@@ -43,42 +119,11 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/200215
-        episodes:
-          1:
-            url_poster: "https://i.imgur.com/n7YUjre.png"
-          2:
-            url_poster: "https://i.imgur.com/p0cq4Ug.png"
-          3:
-            url_poster: "https://i.imgur.com/DaakWLQ.png"
-          4:
-            url_poster: "https://i.imgur.com/eu7dpHd.png"
-          5:
-            url_poster: "https://i.imgur.com/PK5OUGs.png"
-          6:
-            url_poster: "https://i.imgur.com/WlGABiX.png"
-          7:
-            url_poster: "https://i.imgur.com/OlvzWWU.png"
-          8:
-            url_poster: "https://i.imgur.com/OzbYKyQ.png"
       2:
         url_poster: https://theposterdb.com/api/assets/200216
-        episodes:
-          1:
-            url_poster: "https://i.imgur.com/3cCfBof.png"
-          2:
-            url_poster: "https://i.imgur.com/MPjITsT.png"
-          3:
-            url_poster: "https://i.imgur.com/kY5q74y.png"
-          4:
-            url_poster: "https://i.imgur.com/5DylywH.png"
-          5:
-            url_poster: "https://i.imgur.com/JAFE4fo.png"
-          6:
-            url_poster: "https://i.imgur.com/aYge69T.png"
-          7:
-            url_poster: "https://i.imgur.com/OrrjaC5.png"
-          8:
-            url_poster: "https://i.imgur.com/ggd6n3U.png"
+      3:
+        url_poster: https://theposterdb.com/api/assets/319818
+
    "Star Wars: The Bad Batch (2021)":
     year: 2021
     title: "Star Wars: The Bad Batch"
@@ -86,6 +131,8 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/225823
+      2:
+        url_poster: https://theposterdb.com/api/assets/306015
 
    "The Book of Boba Fett (2021)":
     year: 2021
@@ -102,6 +149,8 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/225814
+      2:
+        url_poster: https://theposterdb.com/api/assets/363402
 
    "Obi-Wan Kenobi (2022)":
     year: 2022
@@ -110,3 +159,29 @@ metadata:               #Posters found here https://theposterdb.com/set/100369
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/238548
+
+   "Star Wars: Andor (2022)":
+    year: 2022
+    title: "Star Wars: Andor"
+    url_poster: https://theposterdb.com/api/assets/267562
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/267563
+      1:
+        url_poster: https://theposterdb.com/api/assets/267564
+
+   "Star Wars: Tales of the Jedi (2022)":
+    year: 2022
+    title: "Star Wars: Tales of the Jedi"
+    url_poster: https://theposterdb.com/api/assets/282026
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/282027
+
+   "Ahsoka (2023)":
+    year: 2023
+    title: "Ahsoka"
+    url_poster: https://theposterdb.com/api/assets/392135
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392136

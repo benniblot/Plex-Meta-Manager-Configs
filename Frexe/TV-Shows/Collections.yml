@@ -24,6 +24,10 @@ collections:
         template: { name: set, list: "8215091", poster: https://theposterdb.com/api/assets/360205, background: https://i.imgur.com/mIgqLPz.jpg, }
         summary:  NCIS
 
+ One Chicago:
+        template: { name: set, list: "8259199", poster: https://theposterdb.com/api/assets/363794, background: https://i.imgur.com/n2c1ird.jpg, }
+        summary:  One Chicago
+
  Stargate:
         template: { name: set, list: "8205729", poster: https://theposterdb.com/api/assets/228932, background: https://i.imgur.com/VrJ3Um8.jpg, }
         summary:  Stargate
