@@ -158,7 +158,7 @@ collections:
   "Doom":
     template: {name: Set, collection: 634390, poster: https://theposterdb.com/api/assets/179772 }
 
-############################################# Downtown abbey ##########################################
+############################################# Downton Abbey ###########################################
   "Downton Abbey":
     template: {name: Set, collection: 925006, poster: https://theposterdb.com/api/assets/241845 }
 
@@ -174,9 +174,13 @@ collections:
   "Dungeons & Dragons":
     template: {name: Set, collection: 106498, poster: https://theposterdb.com/api/assets/297425 }
 
-############################################ Equalizer ################################################
+############################################ The Equalizer ############################################
   "Equalizer":
     template: {name: Set, collection: 523855, poster: https://theposterdb.com/api/assets/164777 }
+
+############################################ Enola Holmes #############################################
+  "Enola Holmes":
+    template: {name: Set, collection: 829314, poster: https://theposterdb.com/api/assets/283512 }
 
 ############################################ Ernest ###################################################
   "Ernest":
@@ -387,7 +391,7 @@ collections:
 
 ############################################# One Piece ################################################
   "One Piece":
-    template: {name: Set, collection: "23456, 1052713", poster: https://theposterdb.com/api/assets/285890 }
+    template: {name: Set, collection: 23456, poster: https://theposterdb.com/api/assets/358211 }
 
 ##################################### OSS 117 The Reboot Saga ##########################################
   "OSS 117 The Reboot Saga":
@@ -436,6 +440,7 @@ collections:
 ################################################ Road Trip #############################################
   "Road Trip":
     template: {name: Set, collection: 96679, poster: https://theposterdb.com/api/assets/189032 }
+
 ################################################ Rocky #################################################
   "Rocky":
     template: {name: Set, collection: 1575, poster: https://theposterdb.com/api/assets/163422 }
@@ -503,9 +508,17 @@ collections:
   "Chronicles of Riddick":
     template: {name: Set, collection: 2794, poster: https://theposterdb.com/api/assets/163647 }
 
+######################################## Sword Art Online the Movie -Progressive- ##########################################
+  "Sword Art Online the Movie -Progressive-":
+    template: {name: Set, collection: 893713, poster: https://theposterdb.com/api/assets/241940 }
+
 ####################################### The Dukes of Hazzard (Reboot) ###################################
   "The Dukes of Hazzard (Reboot)":
     template: {name: Set, collection: 332357, poster: https://theposterdb.com/api/assets/164776 }
+
+####################################### The Girl - Millennium ###################################
+  "The Girl - Millennium":
+    template: {name: Set, collection: 575987, poster: https://theposterdb.com/api/assets/288791 }
 
 ################################################## Thing ################################################
   "Thing":
@@ -515,9 +528,17 @@ collections:
   "Time Is Up":
     template: {name: Set, collection: 888484, poster: https://theposterdb.com/api/assets/275847 }
 
+############################################# Tomb Raider ################################################
+  "Tomb Raider":
+    template: {name: Set, collection: 2467, poster: https://theposterdb.com/api/assets/164983 }
+
 ################################################## Top Gun ##############################################
   "Top Gun":
     template: {name: Set, collection: 531330, poster: https://theposterdb.com/api/assets/252568 }
+
+################################################## The Hunger Games ##############################################
+  "The Hunger Games":
+    template: {name: Set, collection: 131635, poster: https://theposterdb.com/api/assets/163851 }  
 
 ############################################# Trainspotting ##############################################
   "Trainspotting":
@@ -554,6 +575,10 @@ collections:
 ################################################ Waiting ################################################
   "Waiting":
     template: {name: Set, collection: 93731, poster: https://theposterdb.com/api/assets/287965 }
+
+############################################## X #############################################
+  "X":
+    template: {name: Set, collection: 950289, poster: https://theposterdb.com/api/assets/281427 }
 
 ############################################### Zombieland ##############################################
   "Zombieland":

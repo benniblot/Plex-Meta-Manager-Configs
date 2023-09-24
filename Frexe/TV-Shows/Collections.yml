@@ -13,7 +13,7 @@ templates:
 collections:
 
  DC Universe:
-        template: { name: set, list: "8215646", poster: https://theposterdb.com/api/assets/239356, background: https://i.imgur.com/x9ijxTc.jpg, }
+        template: { name: set, network: "2243", poster: https://theposterdb.com/api/assets/239356, background: https://i.imgur.com/x9ijxTc.jpg, }
         summary: Series DC
 
  Marvel Television:

@@ -5,8 +5,8 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 1973
     url_poster: https://theposterdb.com/api/assets/203520
 
-  "Star Wars: Episode IV - A New Hope (1977)":
-    title: "Star Wars: Episode IV - A New Hope"
+  "Star Wars (1977)":
+    title: "Star Wars"
     year: 1977
     url_poster: https://theposterdb.com/api/assets/174457
 
@@ -20,18 +20,18 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 1979
     url_poster: https://theposterdb.com/api/assets/203521
 
-  "Star Wars: Episode V - The Empire Strikes Back (1980)":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
+  "The Empire Strikes Back (1980)":
+    title: "The Empire Strikes Back"
     year: 1980
     url_poster: https://theposterdb.com/api/assets/174459
 
-  "Indiana Jones and the Raiders of the Lost Ark (1981)":
-    title: "Indiana Jones and the Raiders of the Lost Ark"
+  "Raiders of the Lost Ark (1981)":
+    title: "Raiders of the Lost Ark"
     year: 1981
     url_poster: https://theposterdb.com/api/assets/174808
 
-  "Star Wars: Episode VI - Return of the Jedi (1983)":
-    title: "Star Wars: Episode VI - Return of the Jedi"
+  "Return of the Jedi (1983)":
+    title: "Return of the Jedi"
     year: 1983
     url_poster: https://theposterdb.com/api/assets/174460
 
@@ -80,8 +80,8 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2012
     url_poster: https://theposterdb.com/api/assets/195601
 
-  "Star Wars: Episode VII - The Force Awakens (2015)":
-    title: "Star Wars: Episode VII - The Force Awakens"
+  "Star Wars: The Force Awakens (2015)":
+    title: "Star Wars: The Force Awakens"
     year: 2015
     url_poster: https://theposterdb.com/api/assets/174467
 
@@ -90,8 +90,8 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2016
     url_poster: https://theposterdb.com/api/assets/174468
 
-  "Star Wars: Episode VIII - The Last Jedi (2017)":
-    title: "Star Wars: Episode VIII - The Last Jedi"
+  "Star Wars: The Last Jedi (2017)":
+    title: "Star Wars: The Last Jedi"
     year: 2017
     url_poster: https://theposterdb.com/api/assets/174469
 
@@ -100,8 +100,8 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2018
     url_poster: https://theposterdb.com/api/assets/174470
 
-  "Star Wars: Episode IX - The Rise of Skywalker (2019)":
-    title: "Star Wars: Episode IX - The Rise of Skywalker"
+  "Star Wars: The Rise of Skywalker (2019)":
+    title: "Star Wars: The Rise of Skywalker"
     year: 2019
     url_poster: https://theposterdb.com/api/assets/174471
 

@@ -7,3 +7,5 @@ metadata:               #Posters found here https://theposterdb.com/set/138794
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/230787
+      2:
+        url_poster: https://theposterdb.com/api/assets/393039

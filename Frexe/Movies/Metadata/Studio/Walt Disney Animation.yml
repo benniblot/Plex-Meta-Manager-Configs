@@ -1,6 +1,6 @@
 metadata:               #Posters found here https://theposterdb.com/poster/191971
 
-####################################Movies################################
+#################################### Movies ################################
   "Snow White and the Seven Dwarfs (1937)":
     title: "Snow White and the Seven Dwarfs"
     year: 1937
@@ -41,15 +41,20 @@ metadata:               #Posters found here https://theposterdb.com/poster/19197
     year: 1948
     url_poster: https://theposterdb.com/api/assets/191977
 
-  "The Adventures of Ichabod and Mr. Toad (1950)":
+  "The Adventures of Ichabod and Mr. Toad (1949)":
     title: "The Adventures of Ichabod and Mr. Toad"
-    year: 1950
+    year: 1949
     url_poster: https://theposterdb.com/api/assets/191278
 
   "Alice in Wonderland (1951)":
     title: "Alice in Wonderland"
     year: 1951
     url_poster: https://theposterdb.com/api/assets/191978
+
+  "Sleeping Beauty (1959)":
+    title: "Sleeping Beauty"
+    year: 1959
+    url_poster: https://theposterdb.com/api/assets/191979
 
   "The Sword in the Stone (1963)":
     title: "The Sword in the Stone"
@@ -131,7 +136,6 @@ metadata:               #Posters found here https://theposterdb.com/poster/19197
     year: 2016
     url_poster: https://theposterdb.com/api/assets/191992
 
-
   "Raya and the Last Dragon (2021)":
     title: "Raya and the Last Dragon"
     year: 2021
@@ -142,7 +146,7 @@ metadata:               #Posters found here https://theposterdb.com/poster/19197
     year: 2021
     url_poster: https://theposterdb.com/api/assets/191994
 
-#################################Collections##############################
+################################# Collections ##############################
 #101 Damatians
   "One Hundred and One Dalmatians (1961)":
     title: "One Hundred and One Dalmatians"
@@ -241,7 +245,7 @@ metadata:               #Posters found here https://theposterdb.com/poster/19197
     year: 2007
     url_poster: https://theposterdb.com/api/assets/191880
 
-##The Emperor's New Groove
+#The Emperor's New Groove
   "The Emperor's New Groove (2000)":
     title: "The Emperor's New Groove"
     year: 2000
